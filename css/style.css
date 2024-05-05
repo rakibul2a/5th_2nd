@@ -1,0 +1,11 @@
+table{
+	width: 100%;
+	border: 2px solid black;
+	background: deepskyblue;
+
+}
+th,td{
+	font-size: 20px;
+	text-align: center;
+	border: 2px solid green;
+}
